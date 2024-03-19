@@ -182,6 +182,8 @@ _TeamCity*
 coverage*.json
 coverage*.xml
 coverage*.info
+c++_web_server.vcxproj
+c++_web_server.vcxproj.filters
 
 # Visual Studio code coverage results
 *.coverage
